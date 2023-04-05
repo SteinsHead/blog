@@ -1,15 +1,15 @@
 # Table of contents
 
-- [README](README.md)
-- SteinsHead
-  - 动漫杂谈
-    - [Enage Kiss 观后感](SteinsHead/动漫杂谈/Engage-Kiss.md)
-    - [Lycoris Recoil 观后感](SteinsHead/动漫杂谈/Lycoris-Recoil.md)
-    - [千束](SteinsHead/动漫杂谈/千束.md)
-    - [泷奈](SteinsHead/动漫杂谈/泷奈.md)
-    - [少女终末旅行](SteinsHead/动漫杂谈/少女终末旅行.md)
-  - 日记随笔
-    - [《樱之诗》对话](SteinsHead/日记随笔/《樱之诗》对话.md)
-    - [天津罪.md](SteinsHead/日记随笔/天津罪.md)
-    - [樱之诗.md](SteinsHead/日记随笔/樱之诗.md)
-    - [近月少女的礼仪.md](SteinsHead/日记随笔/近月少女的礼仪.md)
+* [README](README.md)
+* [SteinsHead](steinshead/README.md)
+  * [动漫杂谈](steinshead/dong-man-za-tan/README.md)
+    * [Enage Kiss 观后感](steinshead/dong-man-za-tan/enage-kiss-guan-hou-gan.md)
+    * [Lycoris Recoil 观后感](steinshead/dong-man-za-tan/lycoris-recoil-guan-hou-gan.md)
+    * [千束](steinshead/dong-man-za-tan/qian-shu.md)
+    * [泷奈](steinshead/dong-man-za-tan/long-nai.md)
+    * [少女终末旅行](steinshead/dong-man-za-tan/shao-nv-zhong-mo-lv-hang.md)
+  * [日记随笔](steinshead/ri-ji-sui-bi/README.md)
+    * [《樱之诗》对话](steinshead/ri-ji-sui-bi/ying-zhi-shi-dui-hua.md)
+    * [天津罪.md](steinshead/ri-ji-sui-bi/tian-jin-zui-.md.md)
+    * [樱之诗.md](steinshead/ri-ji-sui-bi/ying-zhi-shi-.md.md)
+    * [近月少女的礼仪.md](steinshead/ri-ji-sui-bi/jin-yue-shao-nv-de-li-yi-.md.md)
